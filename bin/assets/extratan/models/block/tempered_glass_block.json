@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "extratan:blocks/tempered_glass_block"
-    }
-}

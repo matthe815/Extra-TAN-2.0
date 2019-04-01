@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "extratan:items/tempered_flask_with_super_hot_water"
-    }
- 
-}
