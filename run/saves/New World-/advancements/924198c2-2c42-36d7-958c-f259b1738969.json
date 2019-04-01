@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-03-29 16:12:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-03-29 16:12:33 -0400"
+    },
+    "done": false
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2019-03-29 12:09:16 -0400",
+      "stone_beach": "2019-03-29 12:09:20 -0400"
+    },
+    "done": false
+  }
+}

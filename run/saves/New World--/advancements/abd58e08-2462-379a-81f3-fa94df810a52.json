@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2019-03-30 16:47:39 -0400",
+      "beaches": "2019-03-30 16:47:31 -0400",
+      "plains": "2019-03-30 16:47:21 -0400",
+      "ocean": "2019-03-30 16:47:36 -0400",
+      "river": "2019-03-30 16:47:38 -0400"
+    },
+    "done": false
+  }
+}
